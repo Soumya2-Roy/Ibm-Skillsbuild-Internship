@@ -51,12 +51,12 @@ IBM Cloudant – NoSQL database for storing user preferences, itinerary data, an
 
 IBM Weather Company Data – Offers real-time weather information to enhance travel planning.
 
-🧠 IBM Granite Foundation Model Integration
-IBM Granite (Foundation Models) – Powers advanced Natural Language Processing (NLP) to:
+<b>🧠 IBM Granite Foundation Model Integration</b>
+<b>IBM Granite (Foundation Models)</b> – Powers advanced Natural Language Processing (NLP) to:
 
 Understand user preferences, constraints, and natural language queries.
 
-Generate personalized itineraries and recommendations using Retrieval Augmented Generation (RAG) techniques.
+Generate personalized itineraries and recommendations using <b>Retrieval Augmented Generation (RAG)</b> techniques.
 
 <b>🧪 IBM AI and Development Tools</b>
 <b>IBM Watsonx AI Studio</b> – For building, training, and evaluating AI workflows with Granite models.
