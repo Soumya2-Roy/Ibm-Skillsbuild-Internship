@@ -58,20 +58,20 @@ Understand user preferences, constraints, and natural language queries.
 
 Generate personalized itineraries and recommendations using Retrieval Augmented Generation (RAG) techniques.
 
-🧪 IBM AI and Development Tools
-IBM Watsonx AI Studio – For building, training, and evaluating AI workflows with Granite models.
+<b>🧪 IBM AI and Development Tools</b>
+<b>IBM Watsonx AI Studio</b> – For building, training, and evaluating AI workflows with Granite models.
 
-IBM Watsonx AI Runtime – Executes Granite-powered AI models and services in production.
+<b>IBM Watsonx AI Runtime</b> – Executes Granite-powered AI models and services in production.
 
-IBM Cloud Agent Lab – Enables experimentation and testing of AI agent capabilities in the cloud environment.
+<b>IBM Cloud Agent Lab</b> – Enables experimentation and testing of AI agent capabilities in the cloud environment.
 
-🧭 External APIs (Optional, but Recommended)
-Google Maps API – Used for location lookup, route planning, and discovering nearby attractions or services.
+<b>🧭 External APIs (Optional, but Recommended)</b>
+<b>Google Maps API</b> – Used for location lookup, route planning, and discovering nearby attractions or services.
 
-Booking.com / Skyscanner APIs – For accessing live transport and accommodation options based on travel plans.
+<b>Booking.com / Skyscanner APIs</b> – For accessing live transport and accommodation options based on travel plans.
 
-🧠 Core AI Techniques
-Natural Language Processing (NLP) – To interpret, process, and respond to user input in natural language.
+<b>🧠 Core AI Techniques</b>
+<b>Natural Language Processing (NLP)</b> – To interpret, process, and respond to user input in natural language.
 
 <b>Retrieval Augmented Generation (RAG)</b> – Enhances itinerary generation by combining dynamic search with large language model generation.
 
