@@ -73,7 +73,7 @@ Booking.com / Skyscanner APIs – For accessing live transport and accommodation
 🧠 Core AI Techniques
 Natural Language Processing (NLP) – To interpret, process, and respond to user input in natural language.
 
-Retrieval Augmented Generation (RAG) – Enhances itinerary generation by combining dynamic search with large language model generation.
+<b>Retrieval Augmented Generation (RAG)</b> – Enhances itinerary generation by combining dynamic search with large language model generation.
 
 
 
