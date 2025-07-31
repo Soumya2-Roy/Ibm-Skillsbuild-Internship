@@ -22,7 +22,7 @@ Optimize travel schedules dynamically
 
 By understanding user needs and constraints, the agent delivers personalized, efficient, and real-time travel plans, ensuring a smooth and enjoyable journy.
 
-<h3>🧠 Key Features</h3>
+<h1>🧠 Key Features</h1>
 
 🧳 Personalized trip suggestions
 
