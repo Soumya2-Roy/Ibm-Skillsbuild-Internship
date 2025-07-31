@@ -99,3 +99,5 @@ Allows on-the-go rescheduling and optimization.
 <b>Booking Management:</b>
 
 Facilitates or simulates bookings and stores confirmations.
+<h1>📦 Installation & Setup</h1>
+Make sure you have access to IBM Cloud and IBM Granite model APIs.
