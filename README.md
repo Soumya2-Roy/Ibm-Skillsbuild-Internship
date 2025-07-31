@@ -37,3 +37,5 @@ By understanding user needs and constraints, the agent delivers personalized, ef
 📲 Booking management and real-time notifications
 
 📍 Schedule optimization on the go
+
+<h4>💻 Technologies Used</h4>
