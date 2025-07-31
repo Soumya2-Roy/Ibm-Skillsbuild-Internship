@@ -1,1 +1,4 @@
-<h1>Next-Gen Travel Itinerary Assistant</h1>
+<h1>:
+
+🌍✈️ Next-Gen Travel Itinerary Assistant 🤖🗺️
+</h1>
