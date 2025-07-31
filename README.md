@@ -37,5 +37,8 @@ By understanding user needs and constraints, the agent delivers personalized, ef
 📲 Booking management and real-time notifications
 
 📍 Schedule optimization on the go
-
-<b><h1>💻 Technologies Used</h1></b>
+<h1><b>
+Use of IBM services is mandatory
+</b>b></h1>h1>
+💻 Technologies Used<ry as per the challenge guidelines.
+Use of IBM services is mandatory as per the challenge guidelines.
