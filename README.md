@@ -38,7 +38,42 @@ By understanding user needs and constraints, the agent delivers personalized, ef
 
 📍 Schedule optimization on the go
 <h1><b>
-Use of IBM services is mandatory
-</b>b></h1>h1>
-💻 Technologies Used<ry as per the challenge guidelines.
+💻 Technologies Used
+</b></h1>
 Use of IBM services is mandatory as per the challenge guidelines.
+<h4>🔧Core Technologies</h4>
+🚀 IBM Cloud Lite Services (Mandatory)
+IBM Watson Assistant – Enables intelligent dialogue and smooth user interactions through chat.
+
+IBM Cloud Functions – Provides serverless backend logic for handling requests and orchestrating services.
+
+IBM Cloudant – NoSQL database for storing user preferences, itinerary data, and travel history.
+
+IBM Weather Company Data – Offers real-time weather information to enhance travel planning.
+
+🧠 IBM Granite Foundation Model Integration
+IBM Granite (Foundation Models) – Powers advanced Natural Language Processing (NLP) to:
+
+Understand user preferences, constraints, and natural language queries.
+
+Generate personalized itineraries and recommendations using Retrieval Augmented Generation (RAG) techniques.
+
+🧪 IBM AI and Development Tools
+IBM Watsonx AI Studio – For building, training, and evaluating AI workflows with Granite models.
+
+IBM Watsonx AI Runtime – Executes Granite-powered AI models and services in production.
+
+IBM Cloud Agent Lab – Enables experimentation and testing of AI agent capabilities in the cloud environment.
+
+🧭 External APIs (Optional, but Recommended)
+Google Maps API – Used for location lookup, route planning, and discovering nearby attractions or services.
+
+Booking.com / Skyscanner APIs – For accessing live transport and accommodation options based on travel plans.
+
+🧠 Core AI Techniques
+Natural Language Processing (NLP) – To interpret, process, and respond to user input in natural language.
+
+Retrieval Augmented Generation (RAG) – Enhances itinerary generation by combining dynamic search with large language model generation.
+
+
+
