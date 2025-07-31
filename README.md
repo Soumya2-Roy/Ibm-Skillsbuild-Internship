@@ -38,4 +38,4 @@ By understanding user needs and constraints, the agent delivers personalized, ef
 
 📍 Schedule optimization on the go
 
-<b><h4>💻 Technologies Used</h4></b>
+<b><h1>💻 Technologies Used</h1></b>
