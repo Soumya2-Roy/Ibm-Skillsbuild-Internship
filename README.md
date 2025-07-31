@@ -21,7 +21,9 @@ Handle bookings and notify users of changes
 Optimize travel schedules dynamically
 
 By understanding user needs and constraints, the agent delivers personalized, efficient, and real-time travel plans, ensuring a smooth and enjoyable journy.
+
 <h3>🧠 Key Features</h3>
+
 🧳 Personalized trip suggestions
 
 📅 Automated itinerary generation
