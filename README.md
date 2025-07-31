@@ -43,13 +43,13 @@ By understanding user needs and constraints, the agent delivers personalized, ef
 Use of IBM services is mandatory as per the challenge guidelines.
 <h4>🔧Core Technologies</h4>
 🚀 IBM Cloud Lite Services (Mandatory)
-IBM Watson Assistant – Enables intelligent dialogue and smooth user interactions through chat.
+<b>IBM Watson Assistant</b> – Enables intelligent dialogue and smooth user interactions through chat.
 
-IBM Cloud Functions – Provides serverless backend logic for handling requests and orchestrating services.
+<b>IBM Cloud Functions</b>–Provides serverless backend logic for handling requests and orchestrating services.
 
-IBM Cloudant – NoSQL database for storing user preferences, itinerary data, and travel history.
+<b>IBM Cloudant</b> – NoSQL database for storing user preferences, itinerary data, and travel history.
 
-IBM Weather Company Data – Offers real-time weather information to enhance travel planning.
+<b>IBM Weather Company Data</b> – Offers real-time weather information to enhance travel planning.
 
 <b>🧠 IBM Granite Foundation Model Integration</b>
 <b>IBM Granite (Foundation Models)</b> – Powers advanced Natural Language Processing (NLP) to:
