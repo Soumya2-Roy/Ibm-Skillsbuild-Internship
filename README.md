@@ -283,10 +283,9 @@
 
 <h1>Results</h1>
 
-<h1>🛰️ Deployment View</h1>
-## 🛰️🌍Deployment View
+<h1>🛰️🌍 Deployment View</h1>
 
-![Travel Planner Agent](https://github.com/your-username/your-repo-name/blob/main/travel_planner_agent.png?raw=true)
+![Travel Planner Agent](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/main/Images/Screenshot%202025-07-31%20084319.png)
 
 Welcome to **Travel Planner Agent** – your smart travel buddy!  
 Plan trips your way – stress-free, fun, and totally budget-friendly! ✈️ 🌎
