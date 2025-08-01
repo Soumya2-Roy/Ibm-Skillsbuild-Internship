@@ -110,29 +110,38 @@ Generate personalized itineraries and recommendations using <b>Retrieval Augment
 <b>Retrieval Augmented Generation (RAG)</b> – Enhances itinerary generation by combining dynamic search with large language model generation.
 
 <h1>🚀 How It Works-Workflow Summary</h1>
-<b>User Input:<b> The user specifies trip details like destination type, budget, duration, etc.
+<ul>
+  <li><b>User Input:</b> The user specifies trip details like destination type, budget, duration, etc.</li>
 
-<b>Granite Model Processing:</b> Processes inputs to understand user preferences and generate suggestions.
+  <li><b>Granite Model Processing:</b> Processes inputs to understand user preferences and generate suggestions.</li>
 
-<b>Recommendation Engine:</b>
+  <li><b>Recommendation Engine:</b>
+    <ul>
+      <li>Suggests destinations, transportation, and accommodation options.</li>
+      <li>Uses weather and map data to refine choices.</li>
+    </ul>
+  </li>
 
-Suggests destinations, transportation, and accommodation options.
+  <li><b>Itinerary Builder:</b>
+    <ul>
+      <li>Builds a day-wise travel plan, integrating activities, travel times, and rest periods.</li>
+    </ul>
+  </li>
 
-Uses weather and map data to refine choices.
+  <li><b>Real-Time Assistant:</b>
+    <ul>
+      <li>Offers updates on delays, weather, and local events.</li>
+      <li>Allows on-the-go rescheduling and optimization.</li>
+    </ul>
+  </li>
 
-<b>Itinerary Builder:<b/>
+  <li><b>Booking Management:</b>
+    <ul>
+      <li>Facilitates or simulates bookings and stores confirmations.</li>
+    </ul>
+  </li>
+</ul>
 
-Builds a day-wise travel plan, integrating activities, travel times, and rest periods.
-
-<b>Real-Time Assistant:</b>
-
-Offers updates on delays, weather, and local events.
-
-Allows on-the-go rescheduling and optimization.
-
-<b>Booking Management:</b>
-
-Facilitates or simulates bookings and stores confirmations.
 
 <h1><b>🎨 User Interface / Experience (UI/UX)</b></h1
                                                   
