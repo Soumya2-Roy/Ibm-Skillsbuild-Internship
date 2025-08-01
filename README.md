@@ -167,7 +167,7 @@ Launch the agent via a no-code interface or chatbot builder connected to your Wa
 
 <li>IBM Cloud Lite](https://cloud.ibm.com)</li>
 
-<li>[IBM Watsonx AI Studio](https://www.ibm.com/products/watsonx)</li>
+<li>[IBM Watsonx AI Studio]</li>(https://www.ibm.com/products/watsonx)
 
 <li>[IBM Granite Foundation Models](https://www.ibm.com/products/granite)</li>
 
@@ -180,4 +180,4 @@ Launch the agent via a no-code interface or chatbot builder connected to your Wa
 <li>[Skyscanner for Business](https://partners.skyscanner.net)</li>
 
 <h1>📄 License</h1>
-<li>his project is licensed under the <b>MIT License</b> – open for educational, research, and demo purposes with proper attribution.<li>
+<li>his project is licensed under the <b>MIT License</b> – open for educational, research, and demo purposes with proper attribution.</li>
