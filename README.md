@@ -142,35 +142,37 @@
 </ul>
 
 
-<h1>🚀 How It Works-Workflow Summary</h1>
-<ul>
-  <li><b>User Input:</b> The user specifies trip details like destination type, budget, duration, etc.</li>
+<h1>🚀 How It Works – Workflow Summary</h1>
 
-  <li><b>Granite Model Processing:</b> Processes inputs to understand user preferences and generate suggestions.</li>
+<ul>
+  <li><b>User Input:</b> The user specifies trip details such as destination type, interests, budget, travel dates, and duration.</li>
+
+  <li><b>Granite Model Processing:</b> IBM Granite Foundation Models analyze the inputs to extract user preferences, constraints, and intent. This enables intelligent interpretation of natural language queries.</li>
 
   <li><b>Recommendation Engine:</b>
     <ul>
-      <li>Suggests destinations, transportation, and accommodation options.</li>
-      <li>Uses weather and map data to refine choices.</li>
+      <li>Generates personalized suggestions for destinations, transportation, and accommodation.</li>
+      <li>Incorporates external data sources like weather forecasts and location data to enhance recommendations.</li>
     </ul>
   </li>
 
   <li><b>Itinerary Builder:</b>
     <ul>
-      <li>Builds a day-wise travel plan, integrating activities, travel times, and rest periods.</li>
+      <li>Creates a detailed, day-wise travel plan including must-see landmarks, local experiences, transit time, and rest periods.</li>
     </ul>
   </li>
 
   <li><b>Real-Time Assistant:</b>
     <ul>
-      <li>Offers updates on delays, weather, and local events.</li>
-      <li>Allows on-the-go rescheduling and optimization.</li>
+      <li>Monitors for live updates such as delays, weather disruptions, and local events.</li>
+      <li>Provides dynamic rescheduling options and personalized notifications during the trip.</li>
     </ul>
   </li>
 
   <li><b>Booking Management:</b>
     <ul>
-      <li>Facilitates or simulates bookings and stores confirmations.</li>
+      <li>Simulates or facilitates bookings for flights, hotels, and experiences.</li>
+      <li>Stores and manages booking confirmations securely, with notifications for changes or cancellations.</li>
     </ul>
   </li>
 </ul>
