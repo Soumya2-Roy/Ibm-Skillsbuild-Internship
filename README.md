@@ -21,7 +21,7 @@
 
 <LI>Optimize travel schedules dynamically.</Li>
 </ul>
-By understanding user needs and constraints, the agent delivers personalized, efficient, and real-time travel plans, ensuring a smooth and enjoyable journy.
+<li>By understanding user needs and constraints, the agent delivers personalized, efficient, and real-time travel plans, ensuring a smooth and enjoyable journy.</li>
 <h1>🧭 Use Case Scenarios</h1>
 
 <LI>Solo travelers planning an international trip with budget constraints.</LI>
