@@ -282,10 +282,10 @@
 </ul>
 
 <h1>Results</h1>
-![Travel Planner Agent]()
-![Travel Planner Agent]()
-![Travel Planner Agent]()
-![Travel Planner Agent]()
+![Travel Planner Agent](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/main/Images/Screenshot%202025-07-31%20132721.png)
+![Travel Planner Agent](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/main/Images/Screenshot%202025-07-31%20132946.png)
+![Travel Planner Agent](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/main/Images/Screenshot%202025-07-31%20222344.png)
+![Travel Planner Agent](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/main/Images/Screenshot%202025-07-31%20133753.png)
 ![Travel Planner Agent]()
 
 <h1>🛰️🌍 Deployment View</h1>
