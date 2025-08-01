@@ -151,32 +151,33 @@ Run Agent via Web or App:
 Launch the agent via a no-code interface or chatbot builder connected to your Watson services.
 <h1>✅ Future Enhancements</h1>
 
-🔊 Voice assistant integration (e.g., mobile voice input or Alexa)
+<li>🔊 Voice assistant integration (e.g., mobile voice input or Alexa).</li>
 
-🌍 Multi-language support for international travelers
+<li>🌍 Multi-language support for international travelers.</li>
 
-👥 Collaborative planning for group trips
+<li>👥 Collaborative planning for group trips.</li>
 
-🧾 Expense tracking & budget management
+<li>🧾 Expense tracking & budget management.</li>
 
-📶 Offline access to itineraries and maps
+<li>📶 Offline access to itineraries and maps.</li>
 
-🧠 AI learning from user feedback to improve future suggestions
+<li>🧠 AI learning from user feedback to improve future suggestions.</li>
+
 <h1>📚 Learning & Reference Resources</h1>
 
-[IBM Cloud Lite](https://cloud.ibm.com)
+<li>IBM Cloud Lite](https://cloud.ibm.com)</li>
 
-[IBM Watsonx AI Studio](https://www.ibm.com/products/watsonx)
+<li>[IBM Watsonx AI Studio](https://www.ibm.com/products/watsonx)</li>
 
-[IBM Granite Foundation Models](https://www.ibm.com/products/granite)
+<li>[IBM Granite Foundation Models](https://www.ibm.com/products/granite)</li>
 
-[Watson Assistant Documentation](https://cloud.ibm.com/docs/watson-assistant)
+<li>[Watson Assistant Documentation](https://cloud.ibm.com/docs/watson-assistant)</li>
 
-[The Weather Company Data](https://www.ibm.com/weather)
+<li>[The Weather Company Data](https://www.ibm.com/weather)</li>
 
-[Google Maps Platform](https://developers.google.com/maps)
+<li>[Google Maps Platform](https://developers.google.com/maps)</li>
 
-[Skyscanner for Business](https://partners.skyscanner.net)
+<li>[Skyscanner for Business](https://partners.skyscanner.net)</li>
 
 <h1>📄 License</h1>
-This project is licensed under the <b>MIT License</b> – open for educational, research, and demo purposes with proper attribution.
+<li>his project is licensed under the <b>MIT License</b> – open for educational, research, and demo purposes with proper attribution.<li>
