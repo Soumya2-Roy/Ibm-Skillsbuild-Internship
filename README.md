@@ -122,7 +122,8 @@ Allows on-the-go rescheduling and optimization.
 
 Facilitates or simulates bookings and stores confirmations.
 
-<h1><b>🎨 User Interface / Experience (UI/UX)</b></h1>
+<h1><b>🎨 User Interface / Experience (UI/UX)</b></h1
+                                                  
 Can be implemented via a web dashboard or mobile app
 
 Features a chat-based interface using IBM Watson Assistant
