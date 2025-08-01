@@ -180,20 +180,15 @@ Facilitates or simulates bookings and stores confirmations.
 <li>🧠 AI learning from user feedback to improve future suggestions.</li>
 
 <h1>📚 Learning & Reference Resources</h1>
-
-<li>IBM Cloud Lite](https://cloud.ibm.com)</li>
-
-<li>[IBM Watsonx AI Studio]</li>(https://www.ibm.com/products/watsonx)
-
-<li>[IBM Granite Foundation Models](https://www.ibm.com/products/granite)</li>
-
-<li>[Watson Assistant Documentation](https://cloud.ibm.com/docs/watson-assistant)</li>
-
-<li>[The Weather Company Data](https://www.ibm.com/weather)</li>
-
-<li>[Google Maps Platform](https://developers.google.com/maps)</li>
-
-<li>[Skyscanner for Business](https://partners.skyscanner.net)</li>
+<ul>
+  <li><a href="https://cloud.ibm.com" target="_blank">IBM Cloud Lite</a></li>
+  <li><a href="https://www.ibm.com/products/watsonx" target="_blank">IBM Watsonx AI Studio</a></li>
+  <li><a href="https://www.ibm.com/products/granite" target="_blank">IBM Granite Foundation Models</a></li>
+  <li><a href="https://cloud.ibm.com/docs/watson-assistant" target="_blank">Watson Assistant Documentation</a></li>
+  <li><a href="https://www.ibm.com/weather" target="_blank">The Weather Company Data</a></li>
+  <li><a href="https://developers.google.com/maps" target="_blank">Google Maps Platform</a></li>
+  <li><a href="https://partners.skyscanner.net" target="_blank">Skyscanner for Business</a></li>
+</ul>
 
 <h1>📄 License</h1>
 <li>his project is licensed under the <b>MIT License</b> – open for educational, research, and demo purposes with proper attribution.</li>
