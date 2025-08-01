@@ -19,6 +19,7 @@
   
   <p>🌟 Ultimately, it transforms complex trip logistics into effortless adventures, empowering travelers to focus on making memories rather than managing details.</p>
 </div>
+![image alt]()
 
 <h1>📌 The Challenge</h1>
 <LI>The Travel Planner Agent is an AI-powered assistant designed to simplify and enhance the travel planning experience. This intelligent agent helps users:</LI>
