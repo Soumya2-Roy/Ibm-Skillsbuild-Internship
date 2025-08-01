@@ -126,13 +126,13 @@ Facilitates or simulates bookings and stores confirmations.
 
 <h1><b>🎨 User Interface / Experience (UI/UX)</b></h1
                                                   
-Can be implemented via a web dashboard or mobile app
+<b>Can be implemented via a web dashboard or mobile app.<b>
 
-Features a chat-based interface using IBM Watson Assistant
+<b>Features a chat-based interface using IBM Watson Assistant.</b>
 
-Clean, intuitive design using IBM Carbon Design System
+<b>Clean, intuitive design using IBM Carbon Design System.</b>
 
-Includes visual itinerary builder, weather map overlays, and real-time notifications
+<b>Includes visual itinerary builder, weather map overlays, and real-time notifications.</b>
 <h1>📦 Setup and Deployment (Non-Coding Workflow)</h1
                                                   
 <li>For non-developers or business users:</li>
