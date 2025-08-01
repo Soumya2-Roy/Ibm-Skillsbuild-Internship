@@ -283,5 +283,6 @@
 
 <h1>Results</h1>
 
-<h1>Deployment View</h1>
-![Image Alt](https://ibb.co/0RLJNyf6)
+<h1>🛰️ Deployment View</h1>
+<img src="https://i.ibb.co/0RLJNyf/your-image.png" alt="Deployment Architecture Diagram" style="max-width: 100%; height: auto;">
+
