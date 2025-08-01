@@ -180,13 +180,13 @@
 
 <h1><b>🎨 User Interface / Experience (UI/UX)</b></h1
                                                   
-<b>Can be implemented via a web dashboard or mobile app.<b>
+<ul>
+  <li><b>Can be implemented via a web dashboard or mobile app.</b></li>
+  <li><b>Features a chat-based interface using IBM Watson Assistant.</b></li>
+  <li><b>Clean, intuitive design using IBM Carbon Design System.</b></li>
+  <li><b>Includes visual itinerary builder, weather map overlays, and real-time notifications.</b></li>
+</ul>
 
-<b>Features a chat-based interface using IBM Watson Assistant.</b>
-
-<b>Clean, intuitive design using IBM Carbon Design System.</b>
-
-<b>Includes visual itinerary builder, weather map overlays, and real-time notifications.</b>
 <h1>📦 Setup and Deployment (Non-Coding Workflow)</h1
                                                   
 <ul>
