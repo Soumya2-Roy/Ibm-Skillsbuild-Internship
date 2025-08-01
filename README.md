@@ -36,41 +36,64 @@
 
 <h1>🧠 Key Features</h1>
 
-<LI>🧳 Personalized Destination Discovery</LI>
-<ul>
-<li>Understands user interests (e.g., beaches, mountains, history, adventure) and budget to recommend ideal destinations.</li>
+<h3>🌐 Key Features</h3>
 
-<LI>📅 Automated Itinerary Generation</LI>
 <ul>
-<li>Generates optimized daily travel plans including landmarks, local experiences, transit time, and suggested breaks.</li>
-</ul>
-<LI>🚗🛏️ Travel & Stay Recommendations</LI>
-<ul>
-<li>Recommends flights, trains, buses, and accommodation options by integrating with third-party booking APIs.</li>
+  <li>🧳 <b>Personalized Destination Discovery</b>
+    <ul>
+      <li>Understands user interests (e.g., beaches, mountains, history, adventure) and budget to recommend ideal destinations.</li>
+    </ul>
+  </li>
+
+  <li>📅 <b>Automated Itinerary Generation</b>
+    <ul>
+      <li>Generates optimized daily travel plans including landmarks, local experiences, transit time, and suggested breaks.</li>
+    </ul>
+  </li>
+
+  <li>🚗🛏️ <b>Travel & Stay Recommendations</b>
+    <ul>
+      <li>Recommends flights, trains, buses, and accommodation options by integrating with third-party booking APIs.</li>
+    </ul>
+  </li>
+
+  <li>🌦️ <b>Real-Time Weather Awareness</b>
+    <ul>
+      <li>Integrates with IBM Weather Company Data to suggest travel adjustments based on weather conditions.</li>
+    </ul>
+  </li>
+
+  <li>🗺️ <b>Map & Local Guide Integration</b>
+    <ul>
+      <li>Uses Google Maps or other APIs to suggest nearby places, restaurants, transport links, and more.</li>
+    </ul>
+  </li>
+
+  <li>📲 <b>Booking Management & Notifications</b>
+    <ul>
+      <li>Can simulate or manage bookings and alert users of confirmation, delays, or changes.</li>
+    </ul>
+  </li>
+
+  <li>📍 <b>On-the-Go Rescheduling</b>
+    <ul>
+      <li>Offers dynamic itinerary changes if unexpected delays, closures, or user requests arise.</li>
+    </ul>
+  </li>
+
+  <li>🔒 <b>Secure Data Handling</b>
+    <ul>
+      <li>User preferences and booking information are stored securely using IBM Cloudant.</li>
+    </ul>
+  </li>
+
+  <li>📍 <b>Schedule Optimization</b>
+    <ul>
+      <li>Dynamically optimizes travel timing, local events, rest periods, and traffic patterns for efficiency.</li>
+    </ul>
+  </li>
 </ul>
 
-<LI>🌦️ Real-Time Weather Awareness</LI>
-<ul>
-<li>liIntegrates with IBM Weather Company Data to suggest travel adjustments based on weather conditions.</li>
-</ul>
-<LI>🗺️ Map & Local Guide Integration</LI>
-<ul>
-</li>Uses Google Maps or other APIs to suggest nearby places, restaurants, transport links, and more.</li>
-</ul>
-<LI>📲 Booking Management & Notifications</LI>
-<ul>
-<li>Can simulate or manage bookings and alert users of confirmation, delays, or changes.</li>
-</ul>
-<LI>📍 On-the-Go Rescheduling</LI>
-<ul>
-<li>Offers dynamic itinerary changes if unexpected delays, closures, or user requests arise.</li>
-</ul>
-<LI>🔒 Secure Data Handling</LI>
-</ul>
-<li>User preferences and booking information are stored securely using IBM Cloudant.
-</ul>
-
-📍 Schedule optimization on the go
 <h1><b>
 💻 Technologies Used
 </b></h1>
