@@ -26,7 +26,7 @@ By understanding user needs and constraints, the agent delivers personalized, ef
 
 <LI>Solo travelers planning an international trip with budget constraints.</LI>
 
-<LI>Families looking for kid-friendly activities and accommodation.</LI>LI
+<LI>Families looking for kid-friendly activities and accommodation.</LI>
 
 <LI>Business travelers needing efficient, time-bound itineraries.</LI>
 
@@ -36,28 +36,28 @@ By understanding user needs and constraints, the agent delivers personalized, ef
 
 <h1>🧠 Key Features</h1>
 
-🧳 Personalized Destination Discovery
+<LI>🧳 Personalized Destination Discovery</LI>
 Understands user interests (e.g., beaches, mountains, history, adventure) and budget to recommend ideal destinations.
 
-📅 Automated Itinerary Generation
+<LI>📅 Automated Itinerary Generation</LI>
 Generates optimized daily travel plans including landmarks, local experiences, transit time, and suggested breaks.
 
-🚗🛏️ Travel & Stay Recommendations
+<LI>🚗🛏️ Travel & Stay Recommendations</LI>
 Recommends flights, trains, buses, and accommodation options by integrating with third-party booking APIs.
 
-🌦️ Real-Time Weather Awareness
+<LI>🌦️ Real-Time Weather Awareness</LI>
 Integrates with IBM Weather Company Data to suggest travel adjustments based on weather conditions.
 
-🗺️ Map & Local Guide Integration
+<LI>🗺️ Map & Local Guide Integration</LI>
 Uses Google Maps or other APIs to suggest nearby places, restaurants, transport links, and more.
 
-📲 Booking Management & Notifications
+<LI>📲 Booking Management & Notifications</LI>
 Can simulate or manage bookings and alert users of confirmation, delays, or changes.
 
-📍 On-the-Go Rescheduling
+<LI>📍 On-the-Go Rescheduling</LI>
 Offers dynamic itinerary changes if unexpected delays, closures, or user requests arise.
 
-🔒 Secure Data Handling
+<LI>🔒 Secure Data Handling</LI>
 User preferences and booking information are stored securely using IBM Cloudant.
 
 📍 Schedule optimization on the go
