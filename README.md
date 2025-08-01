@@ -32,33 +32,43 @@
 
 <LI>Adventure seekers interested in real-time conditions for hiking, skiing, etc.</LI>
 
-</LI>Digital nomads managing long-term travel and co-working options.</LI>
+<LI>Digital nomads managing long-term travel and co-working options.</LI>
 
 <h1>🧠 Key Features</h1>
 
 <LI>🧳 Personalized Destination Discovery</LI>
-Understands user interests (e.g., beaches, mountains, history, adventure) and budget to recommend ideal destinations.
+<ul>
+<li>Understands user interests (e.g., beaches, mountains, history, adventure) and budget to recommend ideal destinations.</li>
 
 <LI>📅 Automated Itinerary Generation</LI>
-Generates optimized daily travel plans including landmarks, local experiences, transit time, and suggested breaks.
-
+<ul>
+<li>Generates optimized daily travel plans including landmarks, local experiences, transit time, and suggested breaks.</li>
+</ul>
 <LI>🚗🛏️ Travel & Stay Recommendations</LI>
-Recommends flights, trains, buses, and accommodation options by integrating with third-party booking APIs.
+<ul>
+<li>Recommends flights, trains, buses, and accommodation options by integrating with third-party booking APIs.</li>
+</ul>
 
 <LI>🌦️ Real-Time Weather Awareness</LI>
-Integrates with IBM Weather Company Data to suggest travel adjustments based on weather conditions.
-
+<ul>
+<li>liIntegrates with IBM Weather Company Data to suggest travel adjustments based on weather conditions.</li>
+</ul>
 <LI>🗺️ Map & Local Guide Integration</LI>
-Uses Google Maps or other APIs to suggest nearby places, restaurants, transport links, and more.
-
+<ul>
+</li>Uses Google Maps or other APIs to suggest nearby places, restaurants, transport links, and more.</li>
+</ul>
 <LI>📲 Booking Management & Notifications</LI>
-Can simulate or manage bookings and alert users of confirmation, delays, or changes.
-
+<ul>
+<li>Can simulate or manage bookings and alert users of confirmation, delays, or changes.</li>
+</ul>
 <LI>📍 On-the-Go Rescheduling</LI>
-Offers dynamic itinerary changes if unexpected delays, closures, or user requests arise.
-
+<ul>
+<li>Offers dynamic itinerary changes if unexpected delays, closures, or user requests arise.</li>
+</ul>
 <LI>🔒 Secure Data Handling</LI>
-User preferences and booking information are stored securely using IBM Cloudant.
+</ul>
+<li>User preferences and booking information are stored securely using IBM Cloudant.
+</ul>
 
 📍 Schedule optimization on the go
 <h1><b>
