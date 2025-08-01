@@ -7,20 +7,20 @@
 
 <b><div align="center"> The Next-Gen Travel Planner Agent is an intelligent AI-powered assistant designed to transform the way people plan and experience travel. It leverages advanced technologies like IBM Granite foundation models and real-time data to offer fully personalized and dynamic travel solutions. <br><br> By understanding user preferences, budgets, travel constraints, and behavior, the agent suggests ideal destinations, builds optimized itineraries, and recommends the best transportation and accommodation options. It goes beyond simple planning—integrating live weather updates, maps, and local insights to ensure every part of the journey is seamless and informed. <br><br> With the ability to manage bookings, send real-time alerts, and adjust plans on the go, this smart assistant provides travelers with a stress-free,enjoyable,and deeply customized travel experience—turning complex logistics into effortless adventures. </div></b>
 <h1>📌 The Challenge</h1>
-The Travel Planner Agent is an AI-powered assistant designed to simplify and enhance the travel planning experience. This intelligent agent helps users:
+<LI>The Travel Planner Agent is an AI-powered assistant designed to simplify and enhance the travel planning experience. This intelligent agent helps users:<LI>
+<UL>
+<LI>Discover destinations based on preferences and budget.</LI>
 
-Discover destinations based on preferences and budget
+<LI>Create and manage customized itineraries.</LI>
 
-Create and manage customized itineraries
+<LI>Recommend transportation and accommodation options.</LI>
 
-Recommend transportation and accommodation options
+<LI>Integrate with maps, real-time weather, and local guides.</LI>
 
-Integrate with maps, real-time weather, and local guides
+<LI>Handle bookings and notify users of changes.</LI>
 
-Handle bookings and notify users of changes
-
-Optimize travel schedules dynamically
-
+<LI>Optimize travel schedules dynamically.</Li>
+</ul>
 By understanding user needs and constraints, the agent delivers personalized, efficient, and real-time travel plans, ensuring a smooth and enjoyable journy.
 <h1>🧭 Use Case Scenarios</h1>
 
