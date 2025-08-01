@@ -297,3 +297,5 @@ Plan trips your way – stress-free, fun, and totally budget-friendly! ✈️ �
 
 <h1>My Linkedin Account</h1>
 [Connect with me on LinkedIn](www.linkedin.com/in/soumya-roy-136135324)
+
+<h1>🤖✨ Live Agentic AI View – your intelligent, real-time agentic assistant at a glance.</h1>
