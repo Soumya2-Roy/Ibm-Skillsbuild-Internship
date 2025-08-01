@@ -147,7 +147,7 @@ Enable integrations with weather, maps, and travel services through simple confi
 
 Run Agent via Web or App:
 Launch the agent via a no-code interface or chatbot builder connected to your Watson services.
-✅ Future Enhancements
+</h1>✅ Future Enhancements</h1>
 🔊 Voice assistant integration (e.g., mobile voice input or Alexa)
 
 🌍 Multi-language support for international travelers
