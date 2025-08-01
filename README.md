@@ -103,3 +103,14 @@ Facilitates or simulates bookings and stores confirmations.
 Make sure you have access to IBM Cloud and IBM Granite model APIs.
 <br><b>Clone the repository</b></br>
 <b>Set up IBM Cloud Services</b>
+Create instances of:
+
+Watson Assistant
+
+Cloud Functions
+
+Cloudant DB
+
+Weather Company Data
+
+Get credentials and save them in a .env file.
