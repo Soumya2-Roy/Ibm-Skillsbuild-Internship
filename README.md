@@ -21,7 +21,7 @@ Handle bookings and notify users of changes
 Optimize travel schedules dynamically
 
 By understanding user needs and constraints, the agent delivers personalized, efficient, and real-time travel plans, ensuring a smooth and enjoyable journy.
-<b>🧭 Use Case Scenarios</b>
+<h1>🧭 Use Case Scenarios</h1>
 Solo travelers planning an international trip with budget constraints
 
 Families looking for kid-friendly activities and accommodation
