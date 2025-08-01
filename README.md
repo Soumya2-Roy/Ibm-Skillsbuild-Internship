@@ -134,21 +134,26 @@ Clean, intuitive design using IBM Carbon Design System
 
 Includes visual itinerary builder, weather map overlays, and real-time notifications
 <h1>📦 Setup and Deployment (Non-Coding Workflow)</h1>
-For non-developers or business users:
-
-Access IBM Cloud Lite:Sign up at [cloud.ibm.com](http://cloud.ibm.com/) and create required services.
-
-Connect Watson Assistant:
-Use pre-built travel assistant intents or import a trained workspace.
-
-Configure Watsonx AI:
-Deploy a Granite model using Watsonx AI Studio for NLP and itinerary generation.
-
-Connect APIs (Optional):
-Enable integrations with weather, maps, and travel services through simple configuration.
-
-Run Agent via Web or App:
+<li>For non-developers or business users:</li>
+<ul>
+<li>Access IBM Cloud Lite:Sign up at [cloud.ibm.com](http://cloud.ibm.com/) and create required services.<li>
+<ul>
+<li>Connect Watson Assistant:</li>
+<ul>
+<li>Use pre-built travel assistant intents or import a trained workspace.</li>
+</ul>
+<li>Configure Watsonx AI:</li>
+<ul>
+<li>Deploy a Granite model using Watsonx AI Studio for NLP and itinerary generation.</li>
+<ul>
+<li>Connect APIs (Optional):</li>
+<ul>
+<li>Enable integrations with weather, maps, and travel services through simple configuration.</li>
+</ul>
+<li>Run Agent via Web or App:</li>
+<ul>
 Launch the agent via a no-code interface or chatbot builder connected to your Watson services.
+</ul>
 <h1>✅ Future Enhancements</h1>
 
 <li>🔊 Voice assistant integration (e.g., mobile voice input or Alexa).</li>
