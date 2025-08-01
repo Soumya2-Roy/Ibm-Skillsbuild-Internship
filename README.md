@@ -121,3 +121,12 @@ Allows on-the-go rescheduling and optimization.
 <b>Booking Management:</b>
 
 Facilitates or simulates bookings and stores confirmations.
+
+<b>🎨 User Interface / Experience (UI/UX)</b>
+Can be implemented via a web dashboard or mobile app
+
+Features a chat-based interface using IBM Watson Assistant
+
+Clean, intuitive design using IBM Carbon Design System
+
+Includes visual itinerary builder, weather map overlays, and real-time notifications
