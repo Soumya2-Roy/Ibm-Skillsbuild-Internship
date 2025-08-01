@@ -189,37 +189,53 @@
 
 <h1>📦 Setup and Deployment (Non-Coding Workflow)</h1
                                                   
+<h3>👤 For Non-Developers or Business Users</h3>
+
 <ul>
-  <li><b>For non-developers or business users:</b>
-    <ul>
-      <li><b>Access IBM Cloud Lite:</b> Sign up at <a href="https://cloud.ibm.com/" target="_blank">cloud.ibm.com</a> and create the required services.</li>
+  <li>
+    <details open>
+      <summary><b>Access IBM Cloud Lite</b></summary>
+      <p>Sign up at <a href="https://cloud.ibm.com/" target="_blank">cloud.ibm.com</a> and create the required services.</p>
+    </details>
+  </li>
 
-      <li><b>Connect Watson Assistant:</b>
-        <ul>
-          <li>Use pre-built travel assistant intents or import a trained workspace (.json).</li>
-        </ul>
-      </li>
+  <li>
+    <details>
+      <summary><b>Connect Watson Assistant</b></summary>
+      <ul>
+        <li>Use pre-built travel assistant intents or import a trained workspace (.json).</li>
+      </ul>
+    </details>
+  </li>
 
-      <li><b>Configure Watsonx AI:</b>
-        <ul>
-          <li>Deploy a Granite model using Watsonx AI Studio for NLP and itinerary generation.</li>
-        </ul>
-      </li>
+  <li>
+    <details>
+      <summary><b>Configure Watsonx AI</b></summary>
+      <ul>
+        <li>Deploy a Granite model using Watsonx AI Studio for NLP and itinerary generation.</li>
+      </ul>
+    </details>
+  </li>
 
-      <li><b>Connect APIs (Optional):</b>
-        <ul>
-          <li>Enable integrations with weather, maps, and travel services through simple configuration panels or keys.</li>
-        </ul>
-      </li>
+  <li>
+    <details>
+      <summary><b>Connect APIs (Optional)</b></summary>
+      <ul>
+        <li>Enable integrations with weather, maps, and travel services through simple configuration panels or keys.</li>
+      </ul>
+    </details>
+  </li>
 
-      <li><b>Run Agent via Web or App:</b>
-        <ul>
-          <li>Launch the agent using a no-code chatbot builder or UI dashboard connected to your Watson services.</li>
-        </ul>
-      </li>
-    </ul>
+  <li>
+    <details>
+      <summary><b>Run Agent via Web or App</b></summary>
+      <ul>
+        <li>Launch the agent using a no-code chatbot builder or UI dashboard connected to your Watson services.</li>
+      </ul>
+    </details>
   </li>
 </ul>
+
 
 <h1>✅ Future Enhancements</h1>
 
