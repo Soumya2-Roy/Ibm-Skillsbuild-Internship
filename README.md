@@ -174,3 +174,6 @@ Launch the agent via a no-code interface or chatbot builder connected to your Wa
 [Google Maps Platform](https://developers.google.com/maps)
 
 [Skyscanner for Business](https://partners.skyscanner.net)
+
+<h1>📄 License</h1>
+This project is licensed under the <b>MIT License</b> – open for educational, research, and demo purposes with proper attribution.
