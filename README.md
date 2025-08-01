@@ -23,15 +23,16 @@ Optimize travel schedules dynamically
 
 By understanding user needs and constraints, the agent delivers personalized, efficient, and real-time travel plans, ensuring a smooth and enjoyable journy.
 <h1>🧭 Use Case Scenarios</h1>
-Solo travelers planning an international trip with budget constraints
 
-Families looking for kid-friendly activities and accommodation
+<LI>Solo travelers planning an international trip with budget constraints.</LI>
 
-Business travelers needing efficient, time-bound itineraries
+<LI>Families looking for kid-friendly activities and accommodation.</LI>LI
 
-Adventure seekers interested in real-time conditions for hiking, skiing, etc.
+<LI>Business travelers needing efficient, time-bound itineraries.</LI>
 
-Digital nomads managing long-term travel and co-working options
+<LI>Adventure seekers interested in real-time conditions for hiking, skiing, etc.</LI>
+
+</LI>Digital nomads managing long-term travel and co-working options.</LI>
 
 <h1>🧠 Key Features</h1>
 
