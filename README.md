@@ -280,7 +280,8 @@
 <ul>
   <li>This project is licensed under the <b>📝 MIT License</b> – open for educational, research, and demo purposes with proper attribution.</li>
 </ul>
-
+<h1>📸✨ Screenshots</h1>
+![Travel Planner Agent]()
 <h1>Results</h1>
 ![Travel Planner Agent]()
 ![Travel Planner Agent](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/main/Images/Screenshot%202025-07-31%20132946.png)
