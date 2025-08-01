@@ -189,26 +189,38 @@
 <b>Includes visual itinerary builder, weather map overlays, and real-time notifications.</b>
 <h1>📦 Setup and Deployment (Non-Coding Workflow)</h1
                                                   
-<li>For non-developers or business users:</li>
 <ul>
-<li>Access IBM Cloud Lite:Sign up at [cloud.ibm.com](http://cloud.ibm.com/) and create required services.<li>
-<ul>
-<li>Connect Watson Assistant:</li>
-<ul>
-<li>Use pre-built travel assistant intents or import a trained workspace.</li>
+  <li><b>For non-developers or business users:</b>
+    <ul>
+      <li><b>Access IBM Cloud Lite:</b> Sign up at <a href="https://cloud.ibm.com/" target="_blank">cloud.ibm.com</a> and create the required services.</li>
+
+      <li><b>Connect Watson Assistant:</b>
+        <ul>
+          <li>Use pre-built travel assistant intents or import a trained workspace (.json).</li>
+        </ul>
+      </li>
+
+      <li><b>Configure Watsonx AI:</b>
+        <ul>
+          <li>Deploy a Granite model using Watsonx AI Studio for NLP and itinerary generation.</li>
+        </ul>
+      </li>
+
+      <li><b>Connect APIs (Optional):</b>
+        <ul>
+          <li>Enable integrations with weather, maps, and travel services through simple configuration panels or keys.</li>
+        </ul>
+      </li>
+
+      <li><b>Run Agent via Web or App:</b>
+        <ul>
+          <li>Launch the agent using a no-code chatbot builder or UI dashboard connected to your Watson services.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
-<li>Configure Watsonx AI:</li>
-<ul>
-<li>Deploy a Granite model using Watsonx AI Studio for NLP and itinerary generation.</li>
-<ul>
-<li>Connect APIs (Optional):</li>
-<ul>
-<li>Enable integrations with weather, maps, and travel services through simple configuration.</li>
-</ul>
-<li>Run Agent via Web or App:</li>
-<ul>
-<li>Launch the agent via a no-code interface or chatbot builder connected to your Watson services.</li>
-</ul>
+
 <h1>✅ Future Enhancements</h1>
 
 <li>🔊 Voice assistant integration (e.g., mobile voice input or Alexa).</li>
