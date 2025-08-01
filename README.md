@@ -135,7 +135,7 @@ Includes visual itinerary builder, weather map overlays, and real-time notificat
 For non-developers or business users:
 
 Access IBM Cloud Lite:
-Sign up at cloud.ibm.com and create required services.
+Sign up at cloud.ibm.com[cloud.ibm.com ] and create required services.
 
 Connect Watson Assistant:
 Use pre-built travel assistant intents or import a trained workspace.
