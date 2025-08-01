@@ -286,6 +286,6 @@
 <h1>🛰️ Deployment View</h1>
 ## 🛰️ Deployment View
 
-![Deployment Architecture Diagram](https://i.ibb.co/W54c8Tv/deployment-architecture.png)
+![Deployment Architecture Diagram](https://ibb.co/0RLJNyf6)
 
 
