@@ -133,7 +133,8 @@ Features a chat-based interface using IBM Watson Assistant
 Clean, intuitive design using IBM Carbon Design System
 
 Includes visual itinerary builder, weather map overlays, and real-time notifications
-<h1>📦 Setup and Deployment (Non-Coding Workflow)</h1>
+<h1>📦 Setup and Deployment (Non-Coding Workflow)</h1
+                                                  
 <li>For non-developers or business users:</li>
 <ul>
 <li>Access IBM Cloud Lite:Sign up at [cloud.ibm.com](http://cloud.ibm.com/) and create required services.<li>
@@ -152,7 +153,7 @@ Includes visual itinerary builder, weather map overlays, and real-time notificat
 </ul>
 <li>Run Agent via Web or App:</li>
 <ul>
-Launch the agent via a no-code interface or chatbot builder connected to your Watson services.
+<li>Launch the agent via a no-code interface or chatbot builder connected to your Watson services.</li>
 </ul>
 <h1>✅ Future Enhancements</h1>
 
