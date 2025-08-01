@@ -97,7 +97,7 @@ Generate personalized itineraries and recommendations using <b>Retrieval Augment
 
 <b>Retrieval Augmented Generation (RAG)</b> – Enhances itinerary generation by combining dynamic search with large language model generation.
 
-<h1>🚀 How It Works</h1>
+<h1>🚀 How It Works-Workflow Summary</h1>
 <b>User Input:<b> The user specifies trip details like destination type, budget, duration, etc.
 
 <b>Granite Model Processing:</b> Processes inputs to understand user preferences and generate suggestions.
