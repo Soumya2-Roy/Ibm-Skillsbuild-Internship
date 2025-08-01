@@ -292,7 +292,7 @@
 
 ![Travel Planner Agent](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/main/Images/Screenshot%202025-07-31%20084319.png)
 ![Travel Planner Agent](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/main/Images/Screenshot%202025-07-31%20224058.png)
-![Travel Planner Agent]()
+![Travel Planner Agent](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/main/Images/Screenshot%202025-07-31%20161530.png)
 Welcome to **Travel Planner Agent** – your smart travel buddy!  
 Plan trips your way – stress-free, fun, and totally budget-friendly! ✈️ 🌎
 
