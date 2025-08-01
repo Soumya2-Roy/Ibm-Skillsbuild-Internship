@@ -299,4 +299,6 @@ Plan trips your way – stress-free, fun, and totally budget-friendly! ✈️ �
 [Connect with me on LinkedIn](www.linkedin.com/in/soumya-roy-136135324)
 
 <h1>🤖✨ Live Agentic AI View – your intelligent, real-time agentic assistant at a glance.</h1>
-[LINK](https://eu-gb.dataplatform.cloud.ibm.com/wx/agents/41cf7ff5-f71e-4977-b6d6-67d9253c178b?project_id=10adf087-c5dd-4d5f-9c25-348d2d20187f&context=wx)
+[LINK](https://eu-gb.dataplatform.cloud.ibm.com/wx/agents/41cf7ff5-f71e-4977-b6d6-67d9253c178b?project_id=10adf087-c5dd-4d5f-9c25-348d2d20187f&context=wx
+
+<h1>🚀📡 Deployment Live View – monitor your project in real time!</h1>
