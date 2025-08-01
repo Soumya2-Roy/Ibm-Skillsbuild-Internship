@@ -160,4 +160,17 @@ Launch the agent via a no-code interface or chatbot builder connected to your Wa
 📶 Offline access to itineraries and maps
 
 🧠 AI learning from user feedback to improve future suggestions
+<h1>📚 Learning & Reference Resources</h1>
+[IBM Cloud Lite](https://cloud.ibm.com)
 
+[IBM Watsonx AI Studio](https://www.ibm.com/products/watsonx)
+
+[IBM Granite Foundation Models](https://www.ibm.com/products/granite)
+
+[Watson Assistant Documentation](https://cloud.ibm.com/docs/watson-assistant)
+
+[The Weather Company Data](https://www.ibm.com/weather)
+
+[Google Maps Platform](https://developers.google.com/maps)
+
+[Skyscanner for Business](https://partners.skyscanner.net)
