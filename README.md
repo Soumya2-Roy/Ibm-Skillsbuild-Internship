@@ -121,18 +121,3 @@ Allows on-the-go rescheduling and optimization.
 <b>Booking Management:</b>
 
 Facilitates or simulates bookings and stores confirmations.
-<h1>📦 Installation & Setup</h1>
-Make sure you have access to IBM Cloud and IBM Granite model APIs.
-<br><b>Clone the repository</b></br>
-<b>Set up IBM Cloud Services</b>
-Create instances of:
-
-Watson Assistant
-
-Cloud Functions
-
-Cloudant DB
-
-Weather Company Data
-
-Get credentials and save them in a .env file.
