@@ -281,8 +281,12 @@
 <ul>
   <li>This project is licensed under the <b>📝 [MIT License](https://opensource.org/license/mit)</b> – open for educational, research, and demo purposes with proper attribution.</li>
 </ul>
-<h1>📸✨ Screenshots</h1>
-![Travel Planner](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/913fb6de8bfb2fd3b2359e408b080932eff3fc9d/Images/Screenshot%202025-07-31%20132721.png)
+<h1>📸✨ Screenshots</h1
+
+                    
+![Travel Planner](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/913fb6de8bfb2fd3b2359e408b080932eff3fc9d/Images/Screenshot%202025-07-31%20132721.png
+
+
 <h1>Results</h1>
 ![Travel Planner Agent](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship/blob/main/Images/Screenshot%202025-07-31%20132721.png)
 
